@@ -10,7 +10,7 @@ Solutions to Week 1's exercises: https://cs50.harvard.edu/x/2025/psets/1/
 | Cash           | Includes a solution w/ recursion                   |
 | Credit         |                                                    |
 
-<details>
+<details open>
 <summary>Lecture's Topics</summary>
   
 | Topics                 |
