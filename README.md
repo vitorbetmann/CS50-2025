@@ -7,6 +7,6 @@ Disclaimers
 * ATTENTION: Attempt the exercices by yourself first before reaching for the solution.
 * This repository was created with edutational intent, and no form of academic dishonesty is encouraged with it (https://cs50.harvard.edu/x/2025/honesty/).
 * My goal with this repo is to bring attention to good practices and paradigms, as well as lines of reasoning through a problem that might seem intuitive at first, but requires some non-intuitive logic as to work around the computer's/language's limitations.
-* Ultimately, programming is a skill you learn with lots and lots of practice, not by copying/watching others.
+* Ultimately, programming is a skill you learn with lots and lots of practice, and not by copying/watching others. So give it your all!
 
 Happy coding!
