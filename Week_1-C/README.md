@@ -1,14 +1,14 @@
 Solutions to Week 1's exercises.
 
 
-|    Exercise    |              Extras              |
-|---------------:|----------------------------------|
-| Hello, World   |                                  |
-| Hello, It's Me |                                  |
-| Mario (Less)   |                                  |
-| Mario (More)   |                                  |
-| Cash           | Includes a solution w/ recursion |
-| Credit         |                                  |
+|    Exercise    |                       Extras                       |
+|---------------:|----------------------------------------------------|
+| Hello, World   |                                                    |
+| Hello, It's Me |                                                    |
+| Mario (Less)   | Includes one solution w/ functions and one without |
+| Mario (More)   |                                                    |
+| Cash           | Includes a solution w/ recursion                   |
+| Credit         |                                                    |
 
 <details>
 <summary>Lecture's Topics</summary>
