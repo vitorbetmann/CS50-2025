@@ -3,7 +3,7 @@ Solutions to Week 1's exercises.
 * Extras:
 
 A recursive solution to Cash
-<break>
+<br>
 
 * Lecture's Topics / Minimum Requirements"
 
