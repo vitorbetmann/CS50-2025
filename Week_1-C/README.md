@@ -1,6 +1,6 @@
 Solutions to Week 1's exercises.
 
-* Extras:\n
+* Extras:<break>
 A recursive solution to Cash
 
 
