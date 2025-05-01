@@ -1,4 +1,4 @@
-Solutions to Week 1's exercises.
+Solutions to Week 1's exercises: https://cs50.harvard.edu/x/2025/psets/1/
 
 
 |    Exercise    |                       Extras                       |
