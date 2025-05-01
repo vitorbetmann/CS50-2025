@@ -5,8 +5,8 @@ Solutions to Week 1's exercises.
 |---------------:|----------------------------------|
 | Hello, World   |                                  |
 | Hello, It's Me |                                  |
-| Mario Less     |                                  |
-| Mario More     |                                  |
+| Mario (Less)   |                                  |
+| Mario (More)   |                                  |
 | Cash           | Includes a solution w/ recursion |
 | Credit         |                                  |
 
