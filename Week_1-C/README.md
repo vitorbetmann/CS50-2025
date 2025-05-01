@@ -14,9 +14,13 @@ Solutions to Week 1's exercises: https://cs50.harvard.edu/x/2025/psets/1/
 <summary>Lecture's Topics</summary>
 
 | Data types             | 
-| Conditional Statements | 
+|-----------------------:|
+| Conditional Statements |
+|-----------------------:|
 | Loop                   |
+|-----------------------:|
 | Command Line           |
+|-----------------------:|
 | Magic Numbers          |
 
 </details>
