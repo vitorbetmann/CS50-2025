@@ -1,11 +1,14 @@
 Solutions to Week 1's exercises.
 
-* Extras:
 
-| Exercise |              Extras              |
-|---------:|----------------------------------|
-|   Cash   | Includes a solution w/ recursion |
-
+|    Exercise    |              Extras              |
+|---------------:|----------------------------------|
+| Hello, World   |                                  |
+| Hello, It's Me |                                  |
+| Mario Less     |                                  |
+| Mario More     |                                  |
+| Cash           | Includes a solution w/ recursion |
+| Credit         |                                  |
 
 <details>
 <summary>Lecture's Topics</summary>
