@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: it was the only algorithm which had an improvement in performance when dealing with a sorted list compared to a random or reversed one
+
+sort2 uses: merge sort
+
+How do you know?: it was faster than the other 2 when sorting random and reversed lists
+
+sort3 uses: selection
+
+How do you know?: it had a constand execution time for all 3 (random, sorted, and reversed) lists
