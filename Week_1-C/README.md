@@ -1,8 +1,9 @@
 Solutions to Week 1's exercises.
 
-* Extras:<break>
-A recursive solution to Cash
+* Extras:
 
+A recursive solution to Cash
+<break>
 
 * Lecture's Topics / Minimum Requirements"
 
