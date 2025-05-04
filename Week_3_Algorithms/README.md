@@ -5,9 +5,9 @@ Lecture Topics
 * Linear Search, Binary Search, Bubble Sort, Selection Sort, Call Stacks, Recursion, Merge Sort
 
 
-|    Exercise    |                       Extras                       | Video |
-|---------------:|----------------------------------------------------|-------|
-| Plurality      | Includes one solution with merge sort              ||
-| Runoff         |                                                    ||
-| Sort           |                                                    ||
-| Tideman        |                                                    ||
+|    Exercise    |                       Extras                           | Video |
+|---------------:|--------------------------------------------------------|-------|
+| Plurality      | Includes one solution with merge sort, and one without ||
+| Runoff         |                                                        ||
+| Sort           |                                                        ||
+| Tideman        |                                                        ||
