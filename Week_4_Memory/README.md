@@ -1,7 +1,7 @@
 Solutions to Week 3's exercises: https://cs50.harvard.edu/x/2025/psets/3/
 
 
-|    Exercise    |                       Link                         |
+|    Exercise    |                       Video                        |
 |---------------:|----------------------------------------------------|
 | Volume         |                                                    |
 | Filter-Less    |                                                    |
