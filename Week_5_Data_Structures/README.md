@@ -6,7 +6,9 @@ Solutions to Week 1's exercises: https://cs50.harvard.edu/x/2025/psets/1/
 |---------------:|-------|
 | Inheritance    |       |
 | Speller        |       |
-  
+
+--------------------------
+
 | Lecture's Topics       |
 |-----------------------:|
 | Structures             | 
