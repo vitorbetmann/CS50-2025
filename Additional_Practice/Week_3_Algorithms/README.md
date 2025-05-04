@@ -1,10 +1,11 @@
-Letcure Topics
-* Data Types, Conditional Statements, Loop, Command Line, Magic Numbers
+Lecture Topics
+* Linear Search, Binary Search, Bubble Sort, Selection Sort, Call Stacks, Recursion, Merge Sort
 
 
 |    Exercise    |                       Extras                       | Video |
 |---------------:|----------------------------------------------------|-------|
-| Debug          |                                                    |       |
-| Half           |                                                    |       |  
-| Prime          |                                                    |       |
+| Recursive atoi |                                                    |       |
+| Average Temperatues          |                                      |       |
+| Max            |                                                    |       |  
+| Snackbar       |                                                    |       |
 
