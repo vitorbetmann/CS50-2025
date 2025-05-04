@@ -1,5 +1,5 @@
-Letcure Topics
-* Data Types, Conditional Statements, Loop, Command Line, Magic Numbers
+Lecture Topics
+* Structures, Singly-Linked Lists, Doubly-Linked Lists, Stacks, Queues, Hash Tables, Tries, Data Structures
 
 
 |    Exercise    |                       Extras                       | Video |
