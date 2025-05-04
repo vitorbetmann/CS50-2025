@@ -9,7 +9,7 @@ Letcure Topics
 |---------------:|----------------------------------------------------|-------|
 | Hello, World   |                                                    |       |
 | Hello, It's Me |                                                    |       |
-| Mario (Less)   | Includes a solution w/ functions and one without   |       |
+| Mario (Less)   | Includes one solution w/ functions and one without   |       |
 | Mario (More)   |                                                    |       |  
 | Cash           | Includes a solution w/ recursion                   |       |
 | Credit         |                                                    |       |
