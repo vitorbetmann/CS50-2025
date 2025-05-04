@@ -1,4 +1,8 @@
-Solutions to Week 1's exercises: https://cs50.harvard.edu/x/2025/psets/1/
+Solutions to Week 1's exercises
+* https://cs50.harvard.edu/x/2025/psets/1/
+
+Letcure Topics
+* Data Types, Conditional Statements, Loop, Command Line, Magic Numbers
 
 
 |    Exercise    |                       Extras                       | Video |
@@ -9,16 +13,3 @@ Solutions to Week 1's exercises: https://cs50.harvard.edu/x/2025/psets/1/
 | Mario (More)   |                                                    |       |  
 | Cash           | Includes a solution w/ recursion                   |       |
 | Credit         |                                                    |       |
-
-<details open>
-<summary>Lecture's Topics</summary>
-  
-| Topics                 |
-|-----------------------:|
-| Data types             | 
-| Conditional Statements |
-| Loop                   |
-| Command Line           |
-| Magic Numbers          |
-
-</details>
