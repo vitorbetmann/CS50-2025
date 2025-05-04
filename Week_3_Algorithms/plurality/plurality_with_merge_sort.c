@@ -81,7 +81,6 @@ bool vote(string name)
 // Print the winner (or winners) of the election
 void print_winner(void)
 {
-    // MERGE SORT SOLUTION
     merge_sort(candidates, 0, candidate_count - 1);
     for (int i = candidate_count - 1; i >= 0; i--)
     {
