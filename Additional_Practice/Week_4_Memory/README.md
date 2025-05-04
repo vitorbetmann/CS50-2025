@@ -1,10 +1,8 @@
-Letcure Topics
-* Data Types, Conditional Statements, Loop, Command Line, Magic Numbers
+Lecture Topics
+* Hexadecimal, Pointers, Defining Custom Types, Dynamic Memory Allocation, File Pointers
 
 
 |    Exercise    |                       Extras                       | Video |
 |---------------:|----------------------------------------------------|-------|
-| Debug          |                                                    |       |
-| Half           |                                                    |       |  
-| Prime          |                                                    |       |
-
+| Bottom Up      |                                                    |       |
+| License        |                                                    |       |  
