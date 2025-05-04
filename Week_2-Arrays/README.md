@@ -1,7 +1,7 @@
 Solutions to Week 2's exercises: https://cs50.harvard.edu/x/2025/psets/2/
 
 
-|   Exercise   |                       Extras                       |
+|   Exercise   |                       Video                        |
 |-------------:|----------------------------------------------------|
 | Scrabble     |                                                    |
 | Readability  |                                                    |
