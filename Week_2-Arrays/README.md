@@ -1,4 +1,8 @@
-Solutions to Week 2's exercises: https://cs50.harvard.edu/x/2025/psets/2/
+Solutions to Week 2's exercises
+* https://cs50.harvard.edu/x/2025/psets/2/
+
+Lecture Topics
+* Functions, Variables and Scope, Debugging, Arrays, Command Line Arguments
 
 
 |   Exercise   |                       Video                        |
@@ -7,16 +11,3 @@ Solutions to Week 2's exercises: https://cs50.harvard.edu/x/2025/psets/2/
 | Readability  |                                                    |
 | Caesar       |                                                    |
 | Substitution |                                                    |
-
-<details open>
-<summary>Lecture's Topics</summary>
-  
-| Topics                 |
-|-----------------------:|
-| Functions              | 
-| Variables and Scope    |
-| Debugging              |
-| Arrays                 |
-| Command Line Arguments |
-
-</details>
