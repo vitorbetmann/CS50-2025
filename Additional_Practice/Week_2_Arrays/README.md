@@ -1,10 +1,10 @@
-Letcure Topics
-* Data Types, Conditional Statements, Loop, Command Line, Magic Numbers
+Lecture Topics
+* Functions, Variables and Scope, Debugging, Arrays, Command Line Arguments
 
 
 |    Exercise    |                       Extras                       | Video |
 |---------------:|----------------------------------------------------|-------|
-| Debug          |                                                    |       |
-| Half           |                                                    |       |  
-| Prime          |                                                    |       |
+| Hours          |                                                    |       |
+| N0 V0w3ls      |                                                    |       |  
+| Password       |                                                    |       |
 
